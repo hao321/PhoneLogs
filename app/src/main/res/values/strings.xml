@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneLogs</string>
+    <string name="getlogcat_btn">getlogcat</string>
+</resources>
